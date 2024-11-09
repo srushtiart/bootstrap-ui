@@ -1,3 +1,9 @@
 .my-button{
     background-color: #f8bc0c;
 }
+:root{
+    --D-font-text:"poppins";
+}
+p{
+    font-family: var(--D-font-text);
+}
